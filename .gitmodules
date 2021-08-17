@@ -1,0 +1,6 @@
+[submodule "cloudata-backend"]
+	path = cloudata-backend
+	url = https://github.com/i-perez-s/cloudata-backend
+[submodule "cloudata-frontend"]
+	path = cloudata-frontend
+	url = https://github.com/i-perez-s/cloudata-frontend
